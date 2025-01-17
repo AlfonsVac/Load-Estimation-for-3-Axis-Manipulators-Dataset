@@ -4,7 +4,7 @@ This repository contains the dataset and supplementary materials used in the art
 
 📑 Contents
 📁 Raw Data/ – Collected sensor data from the manipulator's movements.
-📁 Preprocessed Data/ – Normalized and filtered data used for model training.
+📁 Preprocessed Data/ – Normalized and filtered data used for model training. \\
 📁 Feature Set/ – Extracted features utilized in the CNN-based classification approach.
 📁 Scripts/ – Python scripts for data preprocessing, feature extraction, and model evaluation.
 📄 README.md – Instructions for using the dataset and reproducing the experiments.
